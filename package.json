@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://SSS-Front-End.github.io/udevs-task-test",
+  "homepage": "https://SSS-Front-End.github.io/Weather",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
